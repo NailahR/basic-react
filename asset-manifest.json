@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/basic-react/static/css/main.c159e1e3.css",
+    "main.js": "/basic-react/static/js/main.4da1b7f6.js",
+    "static/js/787.529d9457.chunk.js": "/basic-react/static/js/787.529d9457.chunk.js",
+    "static/media/monaleo.jpeg": "/basic-react/static/media/monaleo.c9d8a23d3b70d1b540e7.jpeg",
+    "static/media/chloe.jpeg": "/basic-react/static/media/chloe.ab633dbb9a87bf961158.jpeg",
+    "static/media/jandb.jpeg": "/basic-react/static/media/jandb.d8c41c263b8613fd0697.jpeg",
+    "static/media/joony2.jpeg": "/basic-react/static/media/joony2.48b0e17a7d6a89c58c57.jpeg",
+    "static/media/drakefut.jpeg": "/basic-react/static/media/drakefut.5ecfbc9505dd3440e864.jpeg",
+    "static/media/albumss.jpeg": "/basic-react/static/media/albumss.38c1f9046fe413376980.jpeg",
+    "static/media/kirb.jpeg": "/basic-react/static/media/kirb.01f47d2b8d7f98985966.jpeg",
+    "static/media/jordan2.jpeg": "/basic-react/static/media/jordan2.25a878426e1f68fd03bc.jpeg",
+    "index.html": "/basic-react/index.html",
+    "main.c159e1e3.css.map": "/basic-react/static/css/main.c159e1e3.css.map",
+    "main.4da1b7f6.js.map": "/basic-react/static/js/main.4da1b7f6.js.map",
+    "787.529d9457.chunk.js.map": "/basic-react/static/js/787.529d9457.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c159e1e3.css",
+    "static/js/main.4da1b7f6.js"
+  ]
+}
